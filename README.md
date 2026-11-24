@@ -7,6 +7,7 @@ I'm a Computer Science graduate passionate about building intelligent applicatio
 I enjoy exploring how Artificial Intelligence, Machine Learning, Generative AI, and Cloud technologies can solve real-world problems. I have developed hands-on experience through academic and personal projects.
 
  🚀 About Me
+ 
   🤖 Interested in Artificial Intelligence, Machine Learning, and Generative AI.
   🐍 Working with Python, data analysis.
   🧠 Exploring LLMs, Retrieval-Augmented Generation (RAG), and NLP.
